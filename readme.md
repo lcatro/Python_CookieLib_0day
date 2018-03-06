@@ -12,17 +12,17 @@
 
   PoC 浏览器端验证
 
-![](picture\poc2_in_browser.png)
+![](picture/poc2_in_browser.png)
 
-![](picture\poc2_in_browser_network.png)
+![](picture/poc2_in_browser_network.png)
 
-![](picture\poc2_in_browser_console.png)
+![](picture/poc2_in_browser_console.png)
 
   PoC 1/2 在Python Requests 库中的验证
 
-![](picture\poc1_in_python.png)
+![](picture/poc1_in_python.png)
 
-![](picture\poc2_in_python.png)
+![](picture/poc2_in_python.png)
 
 
 ##  Cookielib 0-day PoC 反Python 爬虫的应用
